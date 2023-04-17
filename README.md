@@ -5,4 +5,4 @@ Projects:
 - Building a BMI calculator 
 - Building an automated file sorter
 - Movie correlation project
-- Amazon Web Scraping project
+- Amazon Web Scraping project (using Beautiful Soup)
